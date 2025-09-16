@@ -18,5 +18,5 @@ cd plagiarism-detection-using-python
 ## Usage
 
 ```
-python detect_plagiarism.py
+python plagiarism detection.py
 ```
