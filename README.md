@@ -15,3 +15,8 @@ Clone the repository to your local machine:
 git clone https://github.com/sairitvikb/plagiarism-detection-using-python.git
 cd plagiarism-detection-using-python
 ```
+## Usage
+
+```
+python detect_plagiarism.py
+```
